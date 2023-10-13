@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LOOPSTUDIOS/static/css/main.9f1ca1bc.css",
+    "main.js": "/LOOPSTUDIOS/static/js/main.6ec490f1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/LOOPSTUDIOS/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image-interactive.jpg": "/LOOPSTUDIOS/static/media/image-interactive.1d330522c9ca6cf07a9c.jpg",
+    "static/media/image-curiosity.jpg": "/LOOPSTUDIOS/static/media/image-curiosity.40d51f38342a87fea0cc.jpg",
+    "static/media/image-soccer-team.jpg": "/LOOPSTUDIOS/static/media/image-soccer-team.24ac0872cf2b5dd86a58.jpg",
+    "static/media/image-night-arcade.jpg": "/LOOPSTUDIOS/static/media/image-night-arcade.a5acf9d0f154b09407d4.jpg",
+    "static/media/image-deep-earth.jpg": "/LOOPSTUDIOS/static/media/image-deep-earth.f8da6014c990a9866d8c.jpg",
+    "static/media/image-fisheye.jpg": "/LOOPSTUDIOS/static/media/image-fisheye.8bb3f74e4211fc238b01.jpg",
+    "static/media/icon-instagram.svg": "/LOOPSTUDIOS/static/media/icon-instagram.8d0df55595e16bac2d486efccdc6b4b3.svg",
+    "static/media/icon-pinterest.svg": "/LOOPSTUDIOS/static/media/icon-pinterest.61a3584463b61d0f0d6bc14bc5d1e40a.svg",
+    "index.html": "/LOOPSTUDIOS/index.html",
+    "static/media/icon-twitter.svg": "/LOOPSTUDIOS/static/media/icon-twitter.5dc7711ff2433b3b89ee7742a407e3bd.svg",
+    "static/media/icon-facebook.svg": "/LOOPSTUDIOS/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
+    "main.9f1ca1bc.css.map": "/LOOPSTUDIOS/static/css/main.9f1ca1bc.css.map",
+    "main.6ec490f1.js.map": "/LOOPSTUDIOS/static/js/main.6ec490f1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/LOOPSTUDIOS/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f1ca1bc.css",
+    "static/js/main.6ec490f1.js"
+  ]
+}
